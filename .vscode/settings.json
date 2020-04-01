@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "mcp23017.h": "c"      
+        "sdkconfig.h": "c"
+    }
+}
